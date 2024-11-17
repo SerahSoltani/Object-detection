@@ -1,5 +1,11 @@
-# Object detection with OpenCV and Python
+# Security Camera Object Detection
+This project uses YOLOv5 for real-time object detection in security camera footage. The system identifies objects like vehicles, pedestrians, and more to enhance surveillance capabilities.  
 
+## Features
+- Real-time detection from video streams or images.
+- Outputs bounding boxes with class labels and confidence scores.
+- Customizable for additional classes.
+  
 OpenCV DNN Module
 The OpenCV DNN (Deep Neural Network) module is a part of the OpenCV library that enables the use of deep learning models for computer vision tasks. This module is specifically designed for running pre-trained neural network models from popular frameworks like Caffe, TensorFlow, PyTorch, and Darknet.
 
@@ -29,12 +35,16 @@ Face Detection: Models such as Haar cascades or deep learning-based detectors.
 Image Classification: Predicting classes for input images.
 
 
- ## Dependencies
-  * opencv
-  * numpy
-  
-`pip install numpy`  
-`pip install opencv-python`
 
+
+## Requirements
+- Python 3.8+
+- PyTorch
+- OpenCV
+- Torch Hub
+
+## Installation
+1. Clone the repository:
+   
 **Note: Compatability with Python 2.x is not officially tested.**
 
