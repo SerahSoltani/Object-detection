@@ -33,7 +33,8 @@ Image Classification: Predicting classes for input images.
   * opencv
   * numpy
   
-`pip install numpy opencv-python`
+`pip install numpy`  
+`pip install opencv-python`
 
 **Note: Compatability with Python 2.x is not officially tested.**
 
