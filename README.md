@@ -44,7 +44,7 @@ Image Classification: Predicting classes for input images.
 - Torch Hub
 
 ## Installation
-1. Clone the repository:
+ Clone the repository!
    
 **Note: Compatability with Python 2.x is not officially tested.**
 
