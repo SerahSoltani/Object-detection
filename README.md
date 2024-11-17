@@ -6,11 +6,11 @@ The OpenCV DNN (Deep Neural Network) module is a part of the OpenCV library that
 Key Features of OpenCV DNN
 Support for Pre-trained Models:
 
-You can load pre-trained models from frameworks such as:
-YOLO (You Only Look Once) for object detection
-SSD (Single Shot MultiBox Detector)
-Faster R-CNN
-Models from TensorFlow, Caffe, and ONNX format.
+You can load pre-trained models from frameworks such as:  
+YOLO (You Only Look Once) for object detection  
+SSD (Single Shot MultiBox Detector)  
+Faster R-CNN  
+Models from TensorFlow, Caffe, and ONNX format.  
 
 Model Conversion:  
 OpenCV DNN supports converted models like ONNX, allowing you to run models created in other frameworks.  
