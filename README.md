@@ -62,6 +62,4 @@ The annotated video will display detected objects with bounding boxes and labels
 
 ![Sample Output](https://github.com/SerahSoltani/Object-detection/blob/main/processed_video.gif)
 
-![me](https://github.com/SerahSoltani/Object-detection/blob/main/processed_video.gif)
-
 
