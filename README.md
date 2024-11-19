@@ -33,7 +33,7 @@ pip install torch torchvision opencv-python
 input_path = 'data/sample_video.mp4'  # Replace with your video or image path
 ```
    
-3. Specify the 'output_path' where the processed video will be saved.
+3. Specify the `output_path` where the processed video will be saved.
    
 ```python
 output_path = 'output/processed_video.mp4'
@@ -45,6 +45,22 @@ output_path = 'output/processed_video.mp4'
 python script_name.py
 ```
   
-5. The annotated video will be saved at the specified 'output_path'. If a display is active, press 'q' to quit the visualization window.
+5. The annotated video will be saved at the specified `output_path`. If a display is active, press 'q' to quit the visualization window.
 
-   
+
+# Code Overview
+
+- **Load YOLOv5 model**: The YOLOv5 model is loaded using `torch.hub`.
+- **Process input**: The script processes video frames or images from the specified `input_path`.
+- **Object detection**: The YOLOv5 model detects objects in each frame.
+- **Rendering and saving**: Detected objects are annotated, and the resulting frames are saved as a new video.
+
+
+## License
+
+This project uses the [MIT License](https://opensource.org/licenses/MIT). Refer to the `LICENSE` file for more details.
+"""
+
+
+
+
