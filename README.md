@@ -15,9 +15,18 @@ To run this code, you need the following dependencies:
 - Python 3.7+
 - PyTorch
 - OpenCV
-- YOLOv5 (loaded via `torch.hub`)
+- YOLOv5 (loaded via `torch.hub`)  
 
 Install the dependencies using:
 
-```bash
+```bash  
 pip install torch torchvision opencv-python
+
+## Usage  
+
+1. Clone this repository or copy the code into your working directory.
+
+2. Replace the `input_path` with the path to your input video or image.
+
+   ```python
+   input_path = 'data/sample_video.mp4'  # Replace with your video or image path
