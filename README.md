@@ -40,9 +40,11 @@ pip install torch torchvision opencv-python
    ```
   
 4. Run the script:
-   ```bash  
+   
+```bash  
 python script_name.py
-```  
+```
+  
 5. The annotated video will be saved at the specified 'output_path'. If a display is active, press 'q' to quit the visualization window.
 
    
