@@ -29,15 +29,15 @@ pip install torch torchvision opencv-python
 
 2. Replace the `input_path` with the path to your input video or image.
 
-   ```python
-   input_path = 'data/sample_video.mp4'  # Replace with your video or image path
-   ```
+```python
+input_path = 'data/sample_video.mp4'  # Replace with your video or image path
+```
    
 3. Specify the 'output_path' where the processed video will be saved.
    
-   ```python
-   output_path = 'output/processed_video.mp4'
-   ```
+```python
+output_path = 'output/processed_video.mp4'
+```
   
 4. Run the script:
    
