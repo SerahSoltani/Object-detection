@@ -45,7 +45,7 @@ output_path = 'output/processed_video.mp4'
 python script_name.py
 ```
   
-5. The annotated video will be saved at the specified `output_path`. If a display is active, press 'q' to quit the visualization window.
+5. The annotated video will be saved at the specified `output_path`. If a display is active, press `q` to quit the visualization window.
 
 
 # Code Overview
@@ -56,10 +56,7 @@ python script_name.py
 - **Rendering and saving**: Detected objects are annotated, and the resulting frames are saved as a new video.
 
 
-## License
 
-This project uses the [MIT License](https://opensource.org/licenses/MIT). Refer to the `LICENSE` file for more details.
-"""
 
 
 
