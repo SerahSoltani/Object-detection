@@ -23,3 +23,11 @@ Install the dependencies using:
 pip install torch torchvision opencv-python
 
 
+## Usages 
+
+1. Clone this repository or copy the code into your working directory.
+
+2. Replace the `input_path` with the path to your input video or image.
+
+   ```python
+   input_path = 'data/sample_video.mp4'  # Replace with your video or image path
