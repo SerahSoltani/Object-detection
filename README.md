@@ -56,6 +56,12 @@ python script_name.py
 - **Rendering and saving**: Detected objects are annotated, and the resulting frames are saved as a new video.
 
 
+## Example Output
+
+The annotated video will display detected objects with bounding boxes and labels similar to this:
+
+![Sample Output](https://via.placeholder.com/800x400.png?text=Sample+Detection+Output)
+
 
 
 
