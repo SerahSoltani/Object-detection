@@ -20,7 +20,8 @@ To run this code, you need the following dependencies:
 Install the dependencies using:
 
 ```bash  
-pip install torch torchvision opencv-python
+pip install torch torchvision opencv-python  
+
 
 ## Usage  
 
