@@ -20,14 +20,6 @@ To run this code, you need the following dependencies:
 Install the dependencies using:
 
 ```bash  
-pip install torch torchvision opencv-python  
+pip install torch torchvision opencv-python
 
 
-## Usage  
-
-1. Clone this repository or copy the code into your working directory.
-
-2. Replace the `input_path` with the path to your input video or image.
-
-   ```python
-   input_path = 'data/sample_video.mp4'  # Replace with your video or image path
