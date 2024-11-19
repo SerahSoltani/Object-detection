@@ -21,9 +21,9 @@ Install the dependencies using:
 
 ```bash  
 pip install torch torchvision opencv-python
+```
 
-
-## Usages 
+## Usage
 
 1. Clone this repository or copy the code into your working directory.
 
