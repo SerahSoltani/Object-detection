@@ -60,9 +60,7 @@ python script_name.py
 
 The annotated video will display detected objects with bounding boxes and labels similar to this:
 
-![Sample Output](https://via.placeholder.com/800x400.png?text=Sample+Detection+Output)
-
-
+![Sample Output](https://github.com/SerahSoltani/Object-detection/blob/main/processed_video.mp4)
 
 
 
